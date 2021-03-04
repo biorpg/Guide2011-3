@@ -1194,3 +1194,4 @@ SuperMicro не исключение. [Но это можно обойти](http
 - [Тема по материнке ASUS ROG X99 Rampage V Extreme/Edition 10 на Overclockers.ru](https://forums.overclockers.ru/viewtopic.php?f=1&t=519082);
 - [Оффициальный сайт Huananzhi](http://www.huananzhi.com) - возможна долгая загрузка сайта из-за великого китайского Firewall
 - [Сторонний ресурс где тоже есть информация по зионам](https://xeon-e5450.ru).
+    
